@@ -2,7 +2,7 @@
 using StudentManagementSystem.Data;
 using Microsoft.EntityFrameworkCore;
 
-namespace StudentManagementSystem.Application.Commands
+namespace StudentManagementSystem.Application.Commands.DeleteStudent
 {
     public class DeleteStudentHandler : IRequestHandler<DeleteStudentCommand, bool>
     {

@@ -1,7 +1,11 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using StudentManagementSystem.Application.Commands;
+using StudentManagementSystem.Application.Commands.AddStudents;
+using StudentManagementSystem.Application.Commands.UpdateStudent;
+using StudentManagementSystem.Application.Commands.DeleteStudent;
 using StudentManagementSystem.Application.Queries;
+using StudentManagementSystem.Application.Queries.GetAllStudents; 
 
 namespace StudentManagementSystem.Controllers
 {

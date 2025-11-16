@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "studentCommand",
-        "Type": "StudentManagementSystem.Application.Commands.AddStudentCommand",
+        "Type": "StudentManagementSystem.Application.Commands.AddStudents.AddStudentCommand",
         "IsRequired": true
       }
     ],
@@ -40,7 +40,7 @@
       },
       {
         "Name": "command",
-        "Type": "StudentManagementSystem.Application.Commands.UpdateStudentCommand",
+        "Type": "StudentManagementSystem.Application.Commands.UpdateStudent.UpdateStudentCommand",
         "IsRequired": true
       }
     ],

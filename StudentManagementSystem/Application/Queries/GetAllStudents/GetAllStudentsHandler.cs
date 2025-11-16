@@ -1,9 +1,11 @@
 ﻿using MediatR;
-using Microsoft.EntityFrameworkCore;   
+using Microsoft.EntityFrameworkCore;
 using StudentManagementSystem.Data;
 using StudentManagementSystem.Models;
+using StudentManagementSystem.Application.Queries.GetAllStudents;
 
-namespace StudentManagementSystem.Application.Queries
+
+namespace StudentManagementSystem.Application.Queries.GetAllStudents
 {
     public class GetAllStudentsHandler : IRequestHandler<GetAllStudentsQuery, IEnumerable<Student>>
     {

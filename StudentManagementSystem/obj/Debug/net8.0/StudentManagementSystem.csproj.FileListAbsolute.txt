@@ -51,3 +51,4 @@ C:\Users\rudra\OneDrive\Desktop\CHUBB\StudentManagementSystem\StudentManagementS
 C:\Users\rudra\OneDrive\Desktop\CHUBB\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.pdb
 C:\Users\rudra\OneDrive\Desktop\CHUBB\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
 C:\Users\rudra\OneDrive\Desktop\CHUBB\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\ref\StudentManagementSystem.dll
+C:\Users\rudra\OneDrive\Desktop\CHUBB\StudentManagementSystem\StudentManagementSystem\obj\Debug\net8.0\StudentManagementSystem.sourcelink.json

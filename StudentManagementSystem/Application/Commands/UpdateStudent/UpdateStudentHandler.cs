@@ -4,7 +4,7 @@ using MediatR;
 using Microsoft.EntityFrameworkCore;
 using StudentManagementSystem.Data;
 
-namespace StudentManagementSystem.Application.Commands
+namespace StudentManagementSystem.Application.Commands.UpdateStudent
 {
     public class UpdateStudentHandler : IRequestHandler<UpdateStudentCommand, bool>
     {
